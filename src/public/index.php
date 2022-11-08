@@ -1,10 +1,11 @@
 <!DOCTYPE html>
+<html lang="ja">
+
 <link rel="stylesheet" href="./index.css">
-<!-- 同じフォルダ内　./ 　-->
-<!--  -->
-<div>
+
+<div class=main>
   <div class="titleWrapper">
-    <h2 class="title">何故TECH QUESTなのか</h2>
+    <h2 class="title">なぜTECH QUESTなのか</h2>
   </div>
   <div class="textWrapper">
     <p class="text">ドメイン駆動設計の考え方はPythonやJava、Goなど、あらゆる言語での開発に活きてきます。</p>
