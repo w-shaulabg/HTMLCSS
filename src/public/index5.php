@@ -27,3 +27,7 @@
 <div style="margin-top: 15px">
   <img src="課題５.png" style="height: auto; width: 100%;">
 </div>
+
+<div>
+  <hr style="width: auto; border-width: 0.5px; margin-top: 10px;" color="lightgray">
+</div>
